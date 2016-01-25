@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workup your work</title>
+    <link>https://workup.to/</link>
+    <description>Recent content on Workup your work</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <atom:link href="https://workup.to/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
