@@ -6,7 +6,20 @@
     <description>Recent content on Workup your work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
+    <lastBuildDate>Tue, 26 Jan 2016 13:39:47 +0900</lastBuildDate>
     <atom:link href="https://workup.to/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://workup.to/about/</link>
+      <pubDate>Tue, 26 Jan 2016 13:39:47 +0900</pubDate>
+      
+      <guid>https://workup.to/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-us:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About us&lt;/h1&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

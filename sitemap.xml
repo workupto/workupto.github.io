@@ -3,7 +3,13 @@
   
   <url>
     <loc>https://workup.to/</loc>
+    <lastmod>2016-01-26T13:39:47+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://workup.to/about/</loc>
+    <lastmod>2016-01-26T13:39:47+09:00</lastmod>
   </url>
   
 </urlset>
